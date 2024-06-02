@@ -3,3 +3,4 @@ __pycache__/
 dotenv.env
 *.pyc
 *.pyo
+LangChain-PostgreSQL-Chatbot/
