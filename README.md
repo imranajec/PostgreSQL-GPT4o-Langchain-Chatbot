@@ -1,4 +1,4 @@
-# LangChain-PostgreSQL-Chatbot
+# PostgreSQL-GPT4o-Langchain-Chatbot
 
 This project demonstrates a chatbot that interacts with a PostgreSQL database using LangChain and OpenAI's GPT-4o. The chatbot can answer complex queries involving multiple tables.
 
@@ -20,8 +20,8 @@ This project demonstrates a chatbot that interacts with a PostgreSQL database us
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/imranajec/PostgreSQL-Langchain-Chatbot.git
-    cd PostgreSQL-Langchain-Chatbot
+    git clone https://github.com/imranajec/PostgreSQL-GPT4o-Langchain-Chatbot.git
+    cd PostgreSQL-GPT4o-Langchain-Chatbot
     ```
 
 2. **Set up the virtual environment:**
