@@ -1,6 +1,5 @@
+dotenv.env
 project1/
 __pycache__/
-dotenv.env
 *.pyc
 *.pyo
-LangChain-PostgreSQL-Chatbot/
