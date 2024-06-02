@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify, render_template
 from ChatSQL import ChatWithSql
 
 app = Flask(__name__)
-obj = ChatWithSql("postgres", "imrantt22", "localhost", "Olympics")
+obj = ChatWithSql("postgres", "", "localhost", "Olympics")
 
 @app.route('/')
 def home():

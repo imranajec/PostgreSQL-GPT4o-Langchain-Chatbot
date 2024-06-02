@@ -54,5 +54,5 @@ class ChatWithSql:
         return response
 
 # Create an instance of the class
-chat_with_sql = ChatWithSql("postgres", "imrantt22", "localhost", "Olympics")
+chat_with_sql = ChatWithSql("postgres", "", "localhost", "Olympics")
 print(chat_with_sql.message("How many tables are there?"))
