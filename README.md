@@ -1,6 +1,6 @@
 # LangChain-PostgreSQL-Chatbot
 
-This project demonstrates a chatbot that interacts with a PostgreSQL database using LangChain and OpenAI's GPT-4. The chatbot can answer complex queries involving multiple tables.
+This project demonstrates a chatbot that interacts with a PostgreSQL database using LangChain and OpenAI's GPT-4o. The chatbot can answer complex queries involving multiple tables.
 
 ## Features
 
