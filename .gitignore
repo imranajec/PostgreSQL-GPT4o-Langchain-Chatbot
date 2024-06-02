@@ -1,4 +1,5 @@
 project1/
 __pycache__/
+dotenv.env
 *.pyc
 *.pyo
